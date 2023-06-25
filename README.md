@@ -1,6 +1,6 @@
 <h1 align="center"> Hi Everyone 👋 I'm Pranav Hunagund</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=MERN+ STACK+Developer,;Quick+Learner/Researcher,;Love+to+learn+new+stuffs.." ></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=MERN+STACK+Developer,;Quick+Learner/Researcher,;Love+to+learn+new+stuffs.." ></a>
 </p>
 
 <img align="right" alt="coding stuffs" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
